@@ -8,4 +8,4 @@
 
   ##
 
- ![Peddro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohsc-dev&show_icons=true&theme=gruvbox&rank_icon=github)
+ ![Peddro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohsc-dev&show_icons=true&theme=radical&rank_icon=github)
