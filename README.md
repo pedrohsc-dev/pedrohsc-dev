@@ -8,4 +8,4 @@
 
   ##
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohsc-dev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+ ![Peddro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohsc-dev&show_icons=true&theme=gruvbox&rank_icon=github)
